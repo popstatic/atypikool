@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Atypikool",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
